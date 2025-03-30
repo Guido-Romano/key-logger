@@ -5,14 +5,14 @@ Una herramienta desarrollada en Python para capturar y registrar las teclas pres
 ## Características
 - Monitorea y registra todas las pulsaciones del teclado.
 - Guarda el registro en un archivo de texto.
-- Se ejecuta en segundo plano hasta que el usuario lo detiene manualmente.
+- Se ejecuta en segundo plano hasta que el usuario lo detiene manualmente (usando tecla "escape".
 
 ## Requisitos
 - Python 3.x
 - Librería `pynput` (puede instalarse con `pip install pynput`)
 
 ## Instalación y Uso
-### Para distribuciones basadas en Debian (Ubuntu, Kali, etc.)
+### Para distribuciones basadas en Debian (Parrot, Kali, etc.)
 ```bash
 sudo apt update && sudo apt install python3 python3-pip -y
 pip install pynput
