@@ -1,6 +1,6 @@
 # Keylogger en Python
 
-Una herramienta desarrollada en Python para capturar y registrar las teclas presionadas en un sistema Linux.
+Una herramienta desarrollada en Python para capturar y registrar las teclas presionadas por un usuario.
 
 ## Características
 - Monitorea y registra todas las pulsaciones del teclado.
