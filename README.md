@@ -5,7 +5,7 @@ Una herramienta desarrollada en Python para capturar y registrar las teclas pres
 ## Características
 - Monitorea y registra todas las pulsaciones del teclado.
 - Guarda el registro en un archivo de texto.
-- Se ejecuta en segundo plano hasta que el usuario lo detiene manualmente (usando tecla "escape".
+- Se ejecuta en segundo plano hasta que el usuario lo detiene manualmente (usando tecla "escape").
 
 ## Requisitos
 - Python 3.x
