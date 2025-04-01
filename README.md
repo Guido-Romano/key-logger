@@ -16,21 +16,21 @@ Una herramienta desarrollada en Python para capturar y registrar las teclas pres
 ```bash
 sudo apt update && sudo apt install python3 python3-pip -y
 pip install pynput
-python3 key_logger.py
+python3 key-logger.py
 ```
 
 ### Para distribuciones basadas en Arch (Arch Linux, BlackArch, etc.)
 ```bash
 sudo pacman -S python python-pip --noconfirm
 pip install pynput
-python key_logger.py
+python key-logger.py
 ```
 
 ### Para distribuciones basadas en Red Hat (CentOS, Fedora, etc.)
 ```bash
 sudo dnf install python3 python3-pip -y
 pip install pynput
-python3 key_logger.py
+python3 key-logger.py
 ```
 
 ## Cómo funciona
